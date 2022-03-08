@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CatchNews</string>
+    <string name="api_key">f49867dc6ebf462eb2947661a249383c</string>
+    <string name="business">business</string>
+    <string name="entertainment">entertainment</string>
+    <string name="general">general</string>
+    <string name="health">health</string>
+    <string name="science">science</string>
+    <string name="sports">sports</string>
+    <string name="technology">technology</string>
+</resources>
